@@ -1,0 +1,61 @@
+text,label,label_id,text_length
+i feel pretty calm about the upcoming exam. i've studied well.,Low Anxiety,0,62
+i'm a bit nervous but mostly confident in my preparation.,Low Anxiety,0,57
+the exam is tomorrow and i feel ready. reviewed all my notes.,Low Anxiety,0,61
+i studied consistently and feel okay about the test.,Low Anxiety,0,52
+i have a mild nervousness but it's manageable.,Low Anxiety,0,46
+looking forward to showing what i've learned.,Low Anxiety,0,45
+i feel prepared and slightly excited about the exam.,Low Anxiety,0,52
+"a little bit of tension, nothing i can't handle.",Low Anxiety,0,48
+i've done my best to prepare. feeling neutral about it.,Low Anxiety,0,55
+"mild jitters, but i know the material well.",Low Anxiety,0,43
+i reviewed everything and feel good about tomorrow.,Low Anxiety,0,51
+not too stressed just a light feeling of anticipation.,Low Anxiety,0,54
+"i'm calm, got enough sleep, and feel ready.",Low Anxiety,0,43
+a small flutter in my stomach but overall feeling fine.,Low Anxiety,0,55
+i have everything ready for the exam. minimal stress.,Low Anxiety,0,53
+i trust my preparation. feeling relatively at ease.,Low Anxiety,0,51
+the exam doesn't worry me much. i've prepared thoroughly.,Low Anxiety,0,57
+i'm a bit unsure on two topics but otherwise well prepared.,Low Anxiety,0,59
+"slight nervousness is normal, i think. i'll do fine.",Low Anxiety,0,52
+reviewed flashcards and feel confident about the content.,Low Anxiety,0,57
+i'm somewhat anxious about the exam. worried i may have missed some topics.,Moderate Anxiety,1,75
+the exam tomorrow is making me uneasy. i feel unsettled.,Moderate Anxiety,1,56
+i've been stressed about this test. there's a lot riding on it.,Moderate Anxiety,1,63
+my heart races a bit when i think about the exam tomorrow.,Moderate Anxiety,1,58
+i'm worried i haven't covered everything that might come up.,Moderate Anxiety,1,60
+feeling tense and distracted. can't focus well on my revision.,Moderate Anxiety,1,62
+there are parts of the syllabus i'm not confident about.,Moderate Anxiety,1,56
+"the closer it gets, the more nervous i feel about the exam.",Moderate Anxiety,1,59
+i keep second guessing my answers in practice tests. stressful.,Moderate Anxiety,1,63
+i've been struggling to sleep thinking about the upcoming test.,Moderate Anxiety,1,63
+mild panic when i can't recall formulas during revision.,Moderate Anxiety,1,56
+i feel pressure from my family to perform well in the exam.,Moderate Anxiety,1,59
+i keep going over the same notes but still feel uncertain.,Moderate Anxiety,1,58
+anxious thoughts keep interrupting my study sessions.,Moderate Anxiety,1,53
+i'm worried about running out of time during the exam.,Moderate Anxiety,1,54
+moderate stress i know some of it but fear surprises.,Moderate Anxiety,1,53
+i feel overwhelmed by the volume of material to cover.,Moderate Anxiety,1,54
+there's a knot in my stomach every time i think about it.,Moderate Anxiety,1,57
+my concentration has been poor because of exam stress.,Moderate Anxiety,1,54
+i've been irritable and distracted since exam week began.,Moderate Anxiety,1,57
+i'm absolutely terrified about the exam. i can't stop shaking.,High Anxiety,2,62
+i feel like i'm going to fail no matter how much i study.,High Anxiety,2,57
+i can't eat or sleep properly because of exam anxiety.,High Anxiety,2,54
+my mind goes completely blank when i try to study. i'm panicking.,High Anxiety,2,65
+i'm convinced i'm going to fail and disappoint everyone.,High Anxiety,2,56
+i feel sick to my stomach every time i think about the exam.,High Anxiety,2,60
+i've been crying every night because of exam stress.,High Anxiety,2,52
+i'm so scared i can't think straight. nothing is sticking.,High Anxiety,2,58
+i'm in complete panic mode. can't stop catastrophizing.,High Anxiety,2,55
+the exam has been giving me chest tightness and headaches.,High Anxiety,2,58
+i feel hopeless. i don't think i can pass no matter what.,High Anxiety,2,57
+my hands tremble whenever i sit down to study for the exam.,High Anxiety,2,59
+i keep having nightmares about failing and freezing in the hall.,High Anxiety,2,64
+every time i open my books i feel a wave of nausea.,High Anxiety,2,51
+i'm spiraling convinced i know nothing and will fail.,High Anxiety,2,53
+i've stopped eating properly because anxiety is so overwhelming.,High Anxiety,2,64
+constant dread. i feel paralyzed and can't move forward.,High Anxiety,2,56
+i feel like i'm going to have a breakdown before the exam.,High Anxiety,2,58
+my brain won't retain anything. the pressure is unbearable.,High Anxiety,2,59
+i can't stop crying. the exam feels impossible and i'm terrified.,High Anxiety,2,65

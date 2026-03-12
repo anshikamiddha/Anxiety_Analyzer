@@ -1,0 +1,4 @@
+anxiety_env/
+__pycache__/
+*.pyc
+.env
